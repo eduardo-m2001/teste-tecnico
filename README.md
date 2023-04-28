@@ -1,5 +1,5 @@
 ## 💻 Sobre
-Este repositório contém uma solução para um teste técnico da empresa Job Rotation.
+Este repositório contém uma solução para um teste técnico da empresa Target.
 
 ___
 
